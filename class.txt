@@ -1,2 +1,3 @@
 ycy is myname
 test1；linkpush
+1.push
